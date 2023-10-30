@@ -2,6 +2,8 @@
 
 This repo contains a repro for a bug in Monaco and/or TypeScript where using `setExtraLibs` to swap out some `.d.ts` files does not work in certain cases related to TypeScript's "suggested spelling fixes" feature.
 
+<img width="1017" alt="Screenshot of the monaco editor displaying a diagnostic error" src="https://github.com/suchipi/monaco-extralib-bug-repro/assets/1341513/d201e0d2-cc79-4738-b7a1-839931cc0468">
+
 ## Instructions
 
 - Install Node.js; any semi-recent version should work, but I used v18.18.0
