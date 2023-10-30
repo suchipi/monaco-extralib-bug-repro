@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "start": "parcel ./src/index.html"
+  },
+  "dependencies": {
+    "monaco-editor": "^0.44.0",
+    "parcel": "^2.10.0"
+  },
+  "devDependencies": {
+    "prettier": "^3.0.3"
+  },
+  "pretter": {}
+}
